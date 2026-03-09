@@ -2,7 +2,7 @@
 
 ### Backend Developer
 
-- 💬 Ask me about **Java, .NET, web development**
+- 💬 Ask me about **Backend development, OOP, DSA**
 
 - 📫 How to reach me **phantrantienhung2004@gmail.com**
 
