@@ -15,7 +15,7 @@
   <a href="https://github.com/PhanTranTienHung22520523" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/Hưng Phan Trần Tiến" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/hpdariter" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/hpdariter.iiii" target="_blank" rel="noreferrer">
